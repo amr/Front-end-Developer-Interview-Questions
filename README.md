@@ -38,12 +38,11 @@ The majority of the questions were plucked from an [oksoclap](http://oksoclap.co
 
 * What did you learn yesterday/this week?
 * What excites or interests you about coding?
-* What UI, Security, Performance, SEO, Maintainability or Technology considerations do you make while building a web application or site?
+* What are the primary goals you set to yourself when building the front-end for a web application? (UI/UX, Security, Performance, SEO, Maintainability and Technology)
 * Talk about your preferred development environment. (OS, Editor, Browsers, Tools etc.)
 * Which version control systems are you familiar with?
 * Can you describe your workflow when you create a web page?
-* Can you describe the difference between progressive enhancement and graceful degradation?
-  * Bonus points for describing feature detection
+* Can you describe what feature detection means in the context of ensuring cross-browser compatibility?
 * Explain what "Semantic HTML" means.
 * How would you optimize a websites assets/resources?
   * Looking for a number of solutions which can include:
@@ -59,8 +58,6 @@ The majority of the questions were plucked from an [oksoclap](http://oksoclap.co
   * Suggest the project utilize something like EditorConfig (http://editorconfig.org)
   * Conform to the conventions (stay consistent)
   * `issue :retab! command`
-* Write a simple slideshow page
-  * Bonus points if it does not use JS.
 * What tools do you use to test your code's performance?
   * Profiler, JSPerf, Dromaeo
 * If you could master one technology this year, what would it be?
@@ -73,12 +70,11 @@ The majority of the questions were plucked from an [oksoclap](http://oksoclap.co
 
 * What's a `doctype` do?
 * What's the difference between standards mode and quirks mode?
-* What are the limitations when serving XHTML pages?
+* What are the differences between HTML and XHTML? What are the reasons for using one over the other?
   * Are there any problems with serving pages as `application/xhtml+xml`?
 * How do you serve a page with content in multiple languages?
   * What kind of things must you be wary of when design or developing for multilingual sites?
 * What are `data-` attributes good for?
-* Consider HTML5 as an open web platform. What are the building blocks of HTML5?
 * Describe the difference between cookies, sessionStorage and localStorage.
 * Can you explain the difference between `GET` and `POST`?
 
