@@ -51,6 +51,7 @@ The majority of the questions were plucked from an [oksoclap](http://oksoclap.co
     * CDN Hosted
     * Caching
     * etc.
+* What are the differences between Desktop and Mobile browsers? Do you think there should be separate front-ends for Desktop and Mobile, and why? What are the techniques for making web applications work on both?
 * Why is it better to serve site assets from multiple domains?
   * How many resources will a browser download from a given domain at a time?
 * Name 3 ways to decrease page load. (perceived or actual load time)
