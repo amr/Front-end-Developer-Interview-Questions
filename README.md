@@ -38,7 +38,7 @@ The majority of the questions were plucked from an [oksoclap](http://oksoclap.co
 
 * What did you learn yesterday/this week?
 * What excites or interests you about coding?
-* What are the primary goals you set to yourself when building the front-end for a web application? (UI/UX, Security, Performance, SEO, Maintainability and Technology)
+* If you are asked to create a set of criteria for evaluating web applications' front-ends, what would these criteria be?
 * Talk about your preferred development environment. (OS, Editor, Browsers, Tools etc.)
 * Which version control systems are you familiar with?
 * Can you describe your workflow when you create a web page?
